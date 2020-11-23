@@ -15,7 +15,7 @@ mobai\
 knockback\
 ping\
 tps\
-setslots\
+setslots
 
 ## Full WIP / Haven't started
 A full backport of Tuinity's startlight engine\
