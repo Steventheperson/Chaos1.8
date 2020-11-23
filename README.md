@@ -10,6 +10,12 @@ API Backport from Paper & Spigot.\
 Numerous bug fixes present in 1.8.\
 Full modern Java support 15+\
 Updated everything - Netty included.
+## Commands
+mobai\
+knockback\
+ping\
+tps\
+setslots\
 
 ## Full WIP / Haven't started
 A full backport of Tuinity's startlight engine\
