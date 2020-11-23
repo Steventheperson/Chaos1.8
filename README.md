@@ -1,4 +1,5 @@
 # Chaos
+1.8 Paper fork that optimizes everything. Destroying the 1.8 fork paid market, open source, and free.
 ## What to expect
 Async hits\
 Async potions\
