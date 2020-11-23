@@ -17,6 +17,6 @@ ping\
 tps\
 setslots
 
-## Full WIP / Haven't started
+## In Progress / Planned
 A full backport of Tuinity's startlight engine\
 No-Tick view distance
