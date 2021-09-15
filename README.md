@@ -23,4 +23,4 @@ setslots
 A full backport of Tuinity's startlight engine\
 No-Tick view distance\
 ~~Chaos 1.17+ Airplane fork, with numerous additions and full patch reworks.~~\
-Chaos 1.17+ is no longer planned, but a minimal version with a couple patches is in the works. Think a bit of Airplane & Purpur.\
+Chaos 1.17+ is no longer planned, but a minimal version with a couple patches is in the works. Think a bit of Airplane & Purpur.
