@@ -7,7 +7,7 @@ Async chunk loading\
 Customizable knockback\
 No-Tick per given block/entity\
 TNT cannon fixes including FPS improvements (invisable sand, gravel, tnt) based on percentage.\
-A huge feature set currently seen in 1.18 server jars. (Purpur, Paper, etc)\
+A huge feature set currently seen in 1.19 server jars. (Purpur, Paper, etc)\
 API Backport from Paper & Spigot.\
 Numerous bug fixes present in 1.8.\
 Full modern Java support 17+\
@@ -22,4 +22,4 @@ setslots
 ## In Progress / Planned
 A full backport of Spottedleaf startlight engine\
 No-Tick view distance\
-Chaos 1.18+ minimal patch improvement, built on Paper.
+Chaos 1.19+ minimal patch improvement, built on Paper.
